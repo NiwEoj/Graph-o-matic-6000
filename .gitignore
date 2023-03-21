@@ -1,4 +1,7 @@
 .ipynb_checkpoints
 .DS_Store
 __pycache__/
-ExperimentalData/
+ExperimentalData/OSA/
+ExperimentalData/OSCILLOSCOPE/
+ExperimentalData/AUTOCORRELATOR/
+ExperimentalData/RFSPECTRUM/
